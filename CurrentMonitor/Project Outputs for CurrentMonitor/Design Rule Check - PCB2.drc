@@ -1,0 +1,286 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\Public\Documents\Altium\Projects\CurrentMonitor\PCB2.PcbDoc
+Date     : 29/04/2017
+Time     : 2:45:44 PM
+
+Processing Rule : Clearance Constraint (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+   Violation between Short-Circuit Constraint: Between Pad INA3221-17(3565mil,3080mil) on Top Layer And Pad INA3221-V(3549.5mil,3095.5mil) on Multi-Layer Location : [X = 3549.5mil][Y = 3095.5mil]
+   Violation between Short-Circuit Constraint: Between Pad INA3221-17(3565mil,3080mil) on Top Layer And Pad INA3221-V(3580.5mil,3095.5mil) on Multi-Layer Location : [X = 3580.5mil][Y = 3095.5mil]
+   Violation between Short-Circuit Constraint: Between Pad INA3221-17(3565mil,3080mil) on Top Layer And Pad INA3221-V(3549.5mil,3064.5mil) on Multi-Layer Location : [X = 3549.5mil][Y = 3064.5mil]
+   Violation between Short-Circuit Constraint: Between Pad INA3221-17(3565mil,3080mil) on Top Layer And Pad INA3221-V(3580.5mil,3064.5mil) on Multi-Layer Location : [X = 3580.5mil][Y = 3064.5mil]
+Rule Violations :4
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+   Violation between Un-Routed Net Constraint: Net VCC Between Pad R6-1(4395mil,3137.244mil) on Top Layer And Pad SDA/SCL-1(4545mil,3400mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net VCC Between Pad INA3221-16(3490.197mil,3050.465mil) on Top Layer And Pad R6-1(4395mil,3137.244mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetINA3221_6 Between Pad R5-1(4220mil,3137.244mil) on Top Layer And Pad SDA/SCL-2(4445mil,3400mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net NetINA3221_6 Between Pad INA3221-6(3639.803mil,3070.155mil) on Top Layer And Pad R5-1(4220mil,3137.244mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetINA3221_2 Between Pad INA3221-14(3490.197mil,3089.845mil) on Top Layer And Pad INA3221-12(3526.614mil,3154.803mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetINA3221_2 Between Pad Power-1(4229.803mil,4159.882mil) on Multi-Layer And Pad Power-1(4355mil,4159.882mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net NetINA3221_2 Between Pad INA3221-14(3490.197mil,3089.845mil) on Top Layer And Pad INA3221-2(3552.205mil,3005.197mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetINA3221_2 Between Pad INA3221-2(3552.205mil,3005.197mil) on Top Layer And Pad R9-1(3719.409mil,2755mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetINA3221_2 Between Pad R7-1(3390mil,3499.409mil) on Top Layer And Pad INA3221-12(3526.614mil,3154.803mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetINA3221_2 Between Pad R8-2(3250mil,2800.59mil) on Top Layer And Pad INA3221-2(3552.205mil,3005.197mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetINA3221_2 Between Pad R7-1(3390mil,3499.409mil) on Top Layer And Pad Power-1(4229.803mil,4159.882mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net NetALERTS_3 Between Pad ALERTS-3(3625mil,3920mil) on Multi-Layer And Pad INA3221-8(3639.803mil,3109.535mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad INA3221-3(3577.795mil,3005.197mil) on Top Layer And Pad INA3221-5(3639.803mil,3050.465mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad Power-2(4229.803mil,3865mil) on Multi-Layer And Pad Power-2(4355mil,3865mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad LOAD3-2(3820mil,2350mil) on Multi-Layer And Pad LOAD3-2(3820mil,2475.197mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad LOAD2-2(2558.11mil,2779.843mil) on Multi-Layer And Pad LOAD2-2(2558.11mil,2905.039mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad LOAD1-2(2638.11mil,3384.961mil) on Multi-Layer And Pad LOAD1-2(2638.11mil,3510.157mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad SDA/SCL-3(4345mil,3400mil) on Multi-Layer And Pad Power-2(4355mil,3865mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad SDA/SCL-3(4345mil,3400mil) on Multi-Layer And Pad C1-2(4558mil,3118.402mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad LOAD2-2(2558.11mil,2905.039mil) on Multi-Layer And Pad LOAD1-2(2638.11mil,3384.961mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad INA3221-5(3639.803mil,3050.465mil) on Top Layer And Pad LOAD3-2(3820mil,2475.197mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad INA3221-5(3639.803mil,3050.465mil) on Top Layer And Pad C1-2(4558mil,3118.402mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad LOAD2-2(2558.11mil,2905.039mil) on Multi-Layer And Pad INA3221-3(3577.795mil,3005.197mil) on Top Layer 
+Rule Violations :23
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=10mil) (Max=10mil) (Preferred=10mil) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=1mil) (Max=100mil) (All)
+   Violation between Hole Size Constraint: (118.11mil > 100mil) Pad LOAD1-0(2451.102mil,3520mil) on Multi-Layer Actual Hole Size = 118.11mil
+   Violation between Hole Size Constraint: (118.11mil > 100mil) Pad LOAD1-0(3120mil,3520mil) on Multi-Layer Actual Hole Size = 118.11mil
+   Violation between Hole Size Constraint: (118.11mil > 100mil) Pad LOAD3-0(4007.008mil,2340.157mil) on Multi-Layer Actual Hole Size = 118.11mil
+   Violation between Hole Size Constraint: (118.11mil > 100mil) Pad LOAD3-0(3338.11mil,2340.157mil) on Multi-Layer Actual Hole Size = 118.11mil
+   Violation between Hole Size Constraint: (118.11mil > 100mil) Pad LOAD2-0(2371.102mil,2770mil) on Multi-Layer Actual Hole Size = 118.11mil
+   Violation between Hole Size Constraint: (118.11mil > 100mil) Pad LOAD2-0(3040mil,2770mil) on Multi-Layer Actual Hole Size = 118.11mil
+   Violation between Hole Size Constraint: (118.11mil > 100mil) Pad Power-0(4364.842mil,3677.992mil) on Multi-Layer Actual Hole Size = 118.11mil
+   Violation between Hole Size Constraint: (118.11mil > 100mil) Pad Power-0(4364.842mil,4346.89mil) on Multi-Layer Actual Hole Size = 118.11mil
+Rule Violations :8
+
+Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=10mil) (All),(All)
+   Violation between Minimum Solder Mask Sliver Constraint: (6.098mil < 10mil) Between Pad INA3221-14(3490.197mil,3089.845mil) on Top Layer And Pad INA3221-17(3565mil,3080mil) on Top Layer [Top Solder] Mask Sliver [6.098mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (6.098mil < 10mil) Between Pad INA3221-15(3490.197mil,3070.155mil) on Top Layer And Pad INA3221-17(3565mil,3080mil) on Top Layer [Top Solder] Mask Sliver [6.098mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (6.098mil < 10mil) Between Pad INA3221-2(3552.205mil,3005.197mil) on Top Layer And Pad INA3221-17(3565mil,3080mil) on Top Layer [Top Solder] Mask Sliver [6.098mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (6.098mil < 10mil) Between Pad INA3221-3(3577.795mil,3005.197mil) on Top Layer And Pad INA3221-17(3565mil,3080mil) on Top Layer [Top Solder] Mask Sliver [6.098mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (6.098mil < 10mil) Between Pad INA3221-10(3577.795mil,3154.803mil) on Top Layer And Pad INA3221-17(3565mil,3080mil) on Top Layer [Top Solder] Mask Sliver [6.098mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (6.098mil < 10mil) Between Pad INA3221-11(3552.205mil,3154.803mil) on Top Layer And Pad INA3221-17(3565mil,3080mil) on Top Layer [Top Solder] Mask Sliver [6.098mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (6.098mil < 10mil) Between Pad INA3221-6(3639.803mil,3070.155mil) on Top Layer And Pad INA3221-17(3565mil,3080mil) on Top Layer [Top Solder] Mask Sliver [6.098mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (6.098mil < 10mil) Between Pad INA3221-7(3639.803mil,3089.845mil) on Top Layer And Pad INA3221-17(3565mil,3080mil) on Top Layer [Top Solder] Mask Sliver [6.098mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (7.358mil < 10mil) Between Pad INA3221-13(3490.197mil,3109.535mil) on Top Layer And Pad INA3221-17(3565mil,3080mil) on Top Layer [Top Solder] Mask Sliver [7.358mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (7.358mil < 10mil) Between Pad INA3221-16(3490.197mil,3050.465mil) on Top Layer And Pad INA3221-17(3565mil,3080mil) on Top Layer [Top Solder] Mask Sliver [7.358mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (7.358mil < 10mil) Between Pad INA3221-5(3639.803mil,3050.465mil) on Top Layer And Pad INA3221-17(3565mil,3080mil) on Top Layer [Top Solder] Mask Sliver [7.358mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (7.358mil < 10mil) Between Pad INA3221-8(3639.803mil,3109.535mil) on Top Layer And Pad INA3221-17(3565mil,3080mil) on Top Layer [Top Solder] Mask Sliver [7.358mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (7.358mil < 10mil) Between Region (0 hole(s)) Top Solder And Pad INA3221-17(3565mil,3080mil) on Top Layer [Top Solder] Mask Sliver [7.358mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (7.358mil < 10mil) Between Region (0 hole(s)) Top Solder And Pad INA3221-17(3565mil,3080mil) on Top Layer [Top Solder] Mask Sliver [7.358mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (7.358mil < 10mil) Between Region (0 hole(s)) Top Solder And Pad INA3221-17(3565mil,3080mil) on Top Layer [Top Solder] Mask Sliver [7.358mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (7.358mil < 10mil) Between Region (0 hole(s)) Top Solder And Pad INA3221-17(3565mil,3080mil) on Top Layer [Top Solder] Mask Sliver [7.358mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (7.358mil < 10mil) Between Region (0 hole(s)) Top Solder And Pad INA3221-17(3565mil,3080mil) on Top Layer [Top Solder] Mask Sliver [7.358mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (7.358mil < 10mil) Between Region (0 hole(s)) Top Solder And Pad INA3221-17(3565mil,3080mil) on Top Layer [Top Solder] Mask Sliver [7.358mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (7.358mil < 10mil) Between Region (0 hole(s)) Top Solder And Pad INA3221-17(3565mil,3080mil) on Top Layer [Top Solder] Mask Sliver [7.358mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (7.358mil < 10mil) Between Region (0 hole(s)) Top Solder And Pad INA3221-17(3565mil,3080mil) on Top Layer [Top Solder] Mask Sliver [7.358mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (6.098mil < 10mil) Between Region (0 hole(s)) Top Solder And Pad INA3221-16(3490.197mil,3050.465mil) on Top Layer [Top Solder] Mask Sliver [6.098mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (6.098mil < 10mil) Between Region (0 hole(s)) Top Solder And Pad INA3221-16(3490.197mil,3050.465mil) on Top Layer [Top Solder] Mask Sliver [6.098mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (6.098mil < 10mil) Between Region (0 hole(s)) Top Solder And Pad INA3221-15(3490.197mil,3070.155mil) on Top Layer [Top Solder] Mask Sliver [6.098mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (6.098mil < 10mil) Between Region (0 hole(s)) Top Solder And Pad INA3221-15(3490.197mil,3070.155mil) on Top Layer [Top Solder] Mask Sliver [6.098mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (6.645mil < 10mil) Between Region (0 hole(s)) Top Solder And Pad INA3221-15(3490.197mil,3070.155mil) on Top Layer [Top Solder] Mask Sliver [6.645mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (6.098mil < 10mil) Between Region (0 hole(s)) Top Solder And Pad INA3221-14(3490.197mil,3089.845mil) on Top Layer [Top Solder] Mask Sliver [6.098mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (6.098mil < 10mil) Between Region (0 hole(s)) Top Solder And Pad INA3221-14(3490.197mil,3089.845mil) on Top Layer [Top Solder] Mask Sliver [6.098mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (6.645mil < 10mil) Between Region (0 hole(s)) Top Solder And Pad INA3221-14(3490.197mil,3089.845mil) on Top Layer [Top Solder] Mask Sliver [6.645mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (6.098mil < 10mil) Between Region (0 hole(s)) Top Solder And Pad INA3221-13(3490.197mil,3109.535mil) on Top Layer [Top Solder] Mask Sliver [6.098mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (6.098mil < 10mil) Between Region (0 hole(s)) Top Solder And Pad INA3221-13(3490.197mil,3109.535mil) on Top Layer [Top Solder] Mask Sliver [6.098mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (3.811mil < 10mil) Between Pad INA3221-11(3552.205mil,3154.803mil) on Top Layer And Pad INA3221-12(3526.614mil,3154.803mil) on Top Layer [Top Solder] Mask Sliver [3.811mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (5.071mil < 10mil) Between Region (0 hole(s)) Top Solder And Pad INA3221-12(3526.614mil,3154.803mil) on Top Layer [Top Solder] Mask Sliver [5.071mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (6.098mil < 10mil) Between Region (0 hole(s)) Top Solder And Pad INA3221-12(3526.614mil,3154.803mil) on Top Layer [Top Solder] Mask Sliver [6.098mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (6.098mil < 10mil) Between Region (0 hole(s)) Top Solder And Pad INA3221-12(3526.614mil,3154.803mil) on Top Layer [Top Solder] Mask Sliver [6.098mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (3.811mil < 10mil) Between Pad INA3221-10(3577.795mil,3154.803mil) on Top Layer And Pad INA3221-11(3552.205mil,3154.803mil) on Top Layer [Top Solder] Mask Sliver [3.811mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (5.071mil < 10mil) Between Region (0 hole(s)) Top Solder And Pad INA3221-11(3552.205mil,3154.803mil) on Top Layer [Top Solder] Mask Sliver [5.071mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (6.098mil < 10mil) Between Region (0 hole(s)) Top Solder And Pad INA3221-11(3552.205mil,3154.803mil) on Top Layer [Top Solder] Mask Sliver [6.098mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (5.071mil < 10mil) Between Region (0 hole(s)) Top Solder And Pad INA3221-11(3552.205mil,3154.803mil) on Top Layer [Top Solder] Mask Sliver [5.071mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (6.098mil < 10mil) Between Region (0 hole(s)) Top Solder And Pad INA3221-11(3552.205mil,3154.803mil) on Top Layer [Top Solder] Mask Sliver [6.098mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (6.098mil < 10mil) Between Region (0 hole(s)) Top Solder And Pad INA3221-11(3552.205mil,3154.803mil) on Top Layer [Top Solder] Mask Sliver [6.098mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (3.811mil < 10mil) Between Pad INA3221-9(3603.386mil,3154.803mil) on Top Layer And Pad INA3221-10(3577.795mil,3154.803mil) on Top Layer [Top Solder] Mask Sliver [3.811mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (5.071mil < 10mil) Between Region (0 hole(s)) Top Solder And Pad INA3221-10(3577.795mil,3154.803mil) on Top Layer [Top Solder] Mask Sliver [5.071mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (6.098mil < 10mil) Between Region (0 hole(s)) Top Solder And Pad INA3221-10(3577.795mil,3154.803mil) on Top Layer [Top Solder] Mask Sliver [6.098mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (5.071mil < 10mil) Between Region (0 hole(s)) Top Solder And Pad INA3221-10(3577.795mil,3154.803mil) on Top Layer [Top Solder] Mask Sliver [5.071mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (6.098mil < 10mil) Between Region (0 hole(s)) Top Solder And Pad INA3221-10(3577.795mil,3154.803mil) on Top Layer [Top Solder] Mask Sliver [6.098mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (6.098mil < 10mil) Between Region (0 hole(s)) Top Solder And Pad INA3221-10(3577.795mil,3154.803mil) on Top Layer [Top Solder] Mask Sliver [6.098mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (5.071mil < 10mil) Between Region (0 hole(s)) Top Solder And Pad INA3221-9(3603.386mil,3154.803mil) on Top Layer [Top Solder] Mask Sliver [5.071mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (6.098mil < 10mil) Between Region (0 hole(s)) Top Solder And Pad INA3221-9(3603.386mil,3154.803mil) on Top Layer [Top Solder] Mask Sliver [6.098mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (6.098mil < 10mil) Between Region (0 hole(s)) Top Solder And Pad INA3221-9(3603.386mil,3154.803mil) on Top Layer [Top Solder] Mask Sliver [6.098mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (6.098mil < 10mil) Between Region (0 hole(s)) Top Solder And Pad INA3221-8(3639.803mil,3109.535mil) on Top Layer [Top Solder] Mask Sliver [6.098mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (6.098mil < 10mil) Between Region (0 hole(s)) Top Solder And Pad INA3221-8(3639.803mil,3109.535mil) on Top Layer [Top Solder] Mask Sliver [6.098mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (6.098mil < 10mil) Between Region (0 hole(s)) Top Solder And Pad INA3221-7(3639.803mil,3089.845mil) on Top Layer [Top Solder] Mask Sliver [6.098mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (6.098mil < 10mil) Between Region (0 hole(s)) Top Solder And Pad INA3221-7(3639.803mil,3089.845mil) on Top Layer [Top Solder] Mask Sliver [6.098mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (6.645mil < 10mil) Between Region (0 hole(s)) Top Solder And Pad INA3221-7(3639.803mil,3089.845mil) on Top Layer [Top Solder] Mask Sliver [6.645mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (6.098mil < 10mil) Between Region (0 hole(s)) Top Solder And Pad INA3221-6(3639.803mil,3070.155mil) on Top Layer [Top Solder] Mask Sliver [6.098mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (6.098mil < 10mil) Between Region (0 hole(s)) Top Solder And Pad INA3221-6(3639.803mil,3070.155mil) on Top Layer [Top Solder] Mask Sliver [6.098mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (6.645mil < 10mil) Between Region (0 hole(s)) Top Solder And Pad INA3221-6(3639.803mil,3070.155mil) on Top Layer [Top Solder] Mask Sliver [6.645mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (6.098mil < 10mil) Between Region (0 hole(s)) Top Solder And Pad INA3221-5(3639.803mil,3050.465mil) on Top Layer [Top Solder] Mask Sliver [6.098mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (6.098mil < 10mil) Between Region (0 hole(s)) Top Solder And Pad INA3221-5(3639.803mil,3050.465mil) on Top Layer [Top Solder] Mask Sliver [6.098mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (3.811mil < 10mil) Between Pad INA3221-3(3577.795mil,3005.197mil) on Top Layer And Pad INA3221-4(3603.386mil,3005.197mil) on Top Layer [Top Solder] Mask Sliver [3.811mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (5.071mil < 10mil) Between Region (0 hole(s)) Top Solder And Pad INA3221-4(3603.386mil,3005.197mil) on Top Layer [Top Solder] Mask Sliver [5.071mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (6.098mil < 10mil) Between Region (0 hole(s)) Top Solder And Pad INA3221-4(3603.386mil,3005.197mil) on Top Layer [Top Solder] Mask Sliver [6.098mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (6.098mil < 10mil) Between Region (0 hole(s)) Top Solder And Pad INA3221-4(3603.386mil,3005.197mil) on Top Layer [Top Solder] Mask Sliver [6.098mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (3.811mil < 10mil) Between Pad INA3221-2(3552.205mil,3005.197mil) on Top Layer And Pad INA3221-3(3577.795mil,3005.197mil) on Top Layer [Top Solder] Mask Sliver [3.811mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (5.071mil < 10mil) Between Region (0 hole(s)) Top Solder And Pad INA3221-3(3577.795mil,3005.197mil) on Top Layer [Top Solder] Mask Sliver [5.071mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (6.098mil < 10mil) Between Region (0 hole(s)) Top Solder And Pad INA3221-3(3577.795mil,3005.197mil) on Top Layer [Top Solder] Mask Sliver [6.098mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (5.071mil < 10mil) Between Region (0 hole(s)) Top Solder And Pad INA3221-3(3577.795mil,3005.197mil) on Top Layer [Top Solder] Mask Sliver [5.071mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (6.098mil < 10mil) Between Region (0 hole(s)) Top Solder And Pad INA3221-3(3577.795mil,3005.197mil) on Top Layer [Top Solder] Mask Sliver [6.098mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (6.098mil < 10mil) Between Region (0 hole(s)) Top Solder And Pad INA3221-3(3577.795mil,3005.197mil) on Top Layer [Top Solder] Mask Sliver [6.098mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (3.811mil < 10mil) Between Pad INA3221-1(3526.614mil,3005.197mil) on Top Layer And Pad INA3221-2(3552.205mil,3005.197mil) on Top Layer [Top Solder] Mask Sliver [3.811mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (5.071mil < 10mil) Between Region (0 hole(s)) Top Solder And Pad INA3221-2(3552.205mil,3005.197mil) on Top Layer [Top Solder] Mask Sliver [5.071mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (6.098mil < 10mil) Between Region (0 hole(s)) Top Solder And Pad INA3221-2(3552.205mil,3005.197mil) on Top Layer [Top Solder] Mask Sliver [6.098mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (5.071mil < 10mil) Between Region (0 hole(s)) Top Solder And Pad INA3221-2(3552.205mil,3005.197mil) on Top Layer [Top Solder] Mask Sliver [5.071mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (6.098mil < 10mil) Between Region (0 hole(s)) Top Solder And Pad INA3221-2(3552.205mil,3005.197mil) on Top Layer [Top Solder] Mask Sliver [6.098mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (6.098mil < 10mil) Between Region (0 hole(s)) Top Solder And Pad INA3221-2(3552.205mil,3005.197mil) on Top Layer [Top Solder] Mask Sliver [6.098mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (5.071mil < 10mil) Between Region (0 hole(s)) Top Solder And Pad INA3221-1(3526.614mil,3005.197mil) on Top Layer [Top Solder] Mask Sliver [5.071mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (6.098mil < 10mil) Between Region (0 hole(s)) Top Solder And Pad INA3221-1(3526.614mil,3005.197mil) on Top Layer [Top Solder] Mask Sliver [6.098mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (6.098mil < 10mil) Between Region (0 hole(s)) Top Solder And Pad INA3221-1(3526.614mil,3005.197mil) on Top Layer [Top Solder] Mask Sliver [6.098mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (7.358mil < 10mil) Between Region (0 hole(s)) Top Solder And Region (0 hole(s)) Top Solder [Top Solder] Mask Sliver [7.358mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (8.328mil < 10mil) Between Region (0 hole(s)) Top Solder And Region (0 hole(s)) Top Solder [Top Solder] Mask Sliver [8.328mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (7.358mil < 10mil) Between Region (0 hole(s)) Top Solder And Region (0 hole(s)) Top Solder [Top Solder] Mask Sliver [7.358mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (7.358mil < 10mil) Between Region (0 hole(s)) Top Solder And Region (0 hole(s)) Top Solder [Top Solder] Mask Sliver [7.358mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (8.328mil < 10mil) Between Region (0 hole(s)) Top Solder And Region (0 hole(s)) Top Solder [Top Solder] Mask Sliver [8.328mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (7.358mil < 10mil) Between Region (0 hole(s)) Top Solder And Region (0 hole(s)) Top Solder [Top Solder] Mask Sliver [7.358mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (7.358mil < 10mil) Between Region (0 hole(s)) Top Solder And Region (0 hole(s)) Top Solder [Top Solder] Mask Sliver [7.358mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (7.358mil < 10mil) Between Region (0 hole(s)) Top Solder And Region (0 hole(s)) Top Solder [Top Solder] Mask Sliver [7.358mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (7.358mil < 10mil) Between Region (0 hole(s)) Top Solder And Region (0 hole(s)) Top Solder [Top Solder] Mask Sliver [7.358mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (7.358mil < 10mil) Between Region (0 hole(s)) Top Solder And Region (0 hole(s)) Top Solder [Top Solder] Mask Sliver [7.358mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (7.358mil < 10mil) Between Region (0 hole(s)) Top Solder And Region (0 hole(s)) Top Solder [Top Solder] Mask Sliver [7.358mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (7.358mil < 10mil) Between Region (0 hole(s)) Top Solder And Region (0 hole(s)) Top Solder [Top Solder] Mask Sliver [7.358mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (8.328mil < 10mil) Between Region (0 hole(s)) Top Solder And Region (0 hole(s)) Top Solder [Top Solder] Mask Sliver [8.328mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (7.358mil < 10mil) Between Region (0 hole(s)) Top Solder And Region (0 hole(s)) Top Solder [Top Solder] Mask Sliver [7.358mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (7.358mil < 10mil) Between Region (0 hole(s)) Top Solder And Region (0 hole(s)) Top Solder [Top Solder] Mask Sliver [7.358mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (7.358mil < 10mil) Between Region (0 hole(s)) Top Solder And Region (0 hole(s)) Top Solder [Top Solder] Mask Sliver [7.358mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (7.358mil < 10mil) Between Region (0 hole(s)) Top Solder And Region (0 hole(s)) Top Solder [Top Solder] Mask Sliver [7.358mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (8.328mil < 10mil) Between Region (0 hole(s)) Top Solder And Region (0 hole(s)) Top Solder [Top Solder] Mask Sliver [8.328mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (7.358mil < 10mil) Between Region (0 hole(s)) Top Solder And Region (0 hole(s)) Top Solder [Top Solder] Mask Sliver [7.358mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (7.358mil < 10mil) Between Region (0 hole(s)) Top Solder And Region (0 hole(s)) Top Solder [Top Solder] Mask Sliver [7.358mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (7.419mil < 10mil) Between Region (0 hole(s)) Top Solder And Region (0 hole(s)) Top Solder [Top Solder] Mask Sliver [7.419mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (7.419mil < 10mil) Between Region (0 hole(s)) Top Solder And Region (0 hole(s)) Top Solder [Top Solder] Mask Sliver [7.419mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (7.358mil < 10mil) Between Region (0 hole(s)) Top Solder And Region (0 hole(s)) Top Solder [Top Solder] Mask Sliver [7.358mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (7.358mil < 10mil) Between Region (0 hole(s)) Top Solder And Region (0 hole(s)) Top Solder [Top Solder] Mask Sliver [7.358mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (7.358mil < 10mil) Between Region (0 hole(s)) Top Solder And Region (0 hole(s)) Top Solder [Top Solder] Mask Sliver [7.358mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (7.358mil < 10mil) Between Region (0 hole(s)) Top Solder And Region (0 hole(s)) Top Solder [Top Solder] Mask Sliver [7.358mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (7.358mil < 10mil) Between Region (0 hole(s)) Top Solder And Region (0 hole(s)) Top Solder [Top Solder] Mask Sliver [7.358mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (7.358mil < 10mil) Between Region (0 hole(s)) Top Solder And Region (0 hole(s)) Top Solder [Top Solder] Mask Sliver [7.358mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (7.358mil < 10mil) Between Region (0 hole(s)) Top Solder And Region (0 hole(s)) Top Solder [Top Solder] Mask Sliver [7.358mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (7.358mil < 10mil) Between Region (0 hole(s)) Top Solder And Region (0 hole(s)) Top Solder [Top Solder] Mask Sliver [7.358mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (7.358mil < 10mil) Between Region (0 hole(s)) Top Solder And Region (0 hole(s)) Top Solder [Top Solder] Mask Sliver [7.358mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (7.358mil < 10mil) Between Region (0 hole(s)) Top Solder And Region (0 hole(s)) Top Solder [Top Solder] Mask Sliver [7.358mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (7.358mil < 10mil) Between Region (0 hole(s)) Top Solder And Region (0 hole(s)) Top Solder [Top Solder] Mask Sliver [7.358mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (7.358mil < 10mil) Between Region (0 hole(s)) Top Solder And Region (0 hole(s)) Top Solder [Top Solder] Mask Sliver [7.358mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (7.358mil < 10mil) Between Region (0 hole(s)) Top Solder And Region (0 hole(s)) Top Solder [Top Solder] Mask Sliver [7.358mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (7.358mil < 10mil) Between Region (0 hole(s)) Top Solder And Region (0 hole(s)) Top Solder [Top Solder] Mask Sliver [7.358mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (7.419mil < 10mil) Between Region (0 hole(s)) Top Solder And Region (0 hole(s)) Top Solder [Top Solder] Mask Sliver [7.419mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (7.419mil < 10mil) Between Region (0 hole(s)) Top Solder And Region (0 hole(s)) Top Solder [Top Solder] Mask Sliver [7.419mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (7.358mil < 10mil) Between Region (0 hole(s)) Top Solder And Region (0 hole(s)) Top Solder [Top Solder] Mask Sliver [7.358mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (7.358mil < 10mil) Between Region (0 hole(s)) Top Solder And Region (0 hole(s)) Top Solder [Top Solder] Mask Sliver [7.358mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.43mil < 10mil) Between Region (0 hole(s)) Top Solder And Region (0 hole(s)) Top Solder [Top Solder] Mask Sliver [0.43mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.43mil < 10mil) Between Region (0 hole(s)) Top Solder And Region (0 hole(s)) Top Solder [Top Solder] Mask Sliver [0.43mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.43mil < 10mil) Between Region (0 hole(s)) Top Solder And Region (0 hole(s)) Top Solder [Top Solder] Mask Sliver [0.43mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (6.33mil < 10mil) Between Region (0 hole(s)) Top Solder And Region (0 hole(s)) Top Solder [Top Solder] Mask Sliver [6.33mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (6.331mil < 10mil) Between Region (0 hole(s)) Top Solder And Region (0 hole(s)) Top Solder [Top Solder] Mask Sliver [6.331mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (6.33mil < 10mil) Between Region (0 hole(s)) Top Solder And Region (0 hole(s)) Top Solder [Top Solder] Mask Sliver [6.33mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.43mil < 10mil) Between Region (0 hole(s)) Top Solder And Region (0 hole(s)) Top Solder [Top Solder] Mask Sliver [0.43mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.43mil < 10mil) Between Region (0 hole(s)) Top Solder And Region (0 hole(s)) Top Solder [Top Solder] Mask Sliver [0.43mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.43mil < 10mil) Between Region (0 hole(s)) Top Solder And Region (0 hole(s)) Top Solder [Top Solder] Mask Sliver [0.43mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (6.33mil < 10mil) Between Region (0 hole(s)) Top Solder And Region (0 hole(s)) Top Solder [Top Solder] Mask Sliver [6.33mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (6.331mil < 10mil) Between Region (0 hole(s)) Top Solder And Region (0 hole(s)) Top Solder [Top Solder] Mask Sliver [6.331mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (6.33mil < 10mil) Between Region (0 hole(s)) Top Solder And Region (0 hole(s)) Top Solder [Top Solder] Mask Sliver [6.33mil]
+Rule Violations :130
+
+Processing Rule : Silk To Solder Mask (Clearance=10mil) (IsPad),(All)
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 10mil) Between Text "PN" (3565mil,3080mil) on Top Overlay And Pad INA3221-V(3549.5mil,3095.5mil) on Multi-Layer [Top Overlay] to [Top Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (3.872mil < 10mil) Between Text "DEV" (3565mil,3080mil) on Top Overlay And Pad INA3221-V(3549.5mil,3095.5mil) on Multi-Layer [Top Overlay] to [Top Solder] clearance [3.872mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 10mil) Between Text "VAL" (3565mil,3080mil) on Top Overlay And Pad INA3221-V(3549.5mil,3095.5mil) on Multi-Layer [Top Overlay] to [Top Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 10mil) Between Text "TOL" (3565mil,3080mil) on Top Overlay And Pad INA3221-V(3549.5mil,3095.5mil) on Multi-Layer [Top Overlay] to [Top Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (3.872mil < 10mil) Between Text "DEV" (3565mil,3080mil) on Top Overlay And Pad INA3221-V(3580.5mil,3095.5mil) on Multi-Layer [Top Overlay] to [Top Solder] clearance [3.872mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (3.924mil < 10mil) Between Text "VAL" (3565mil,3080mil) on Top Overlay And Pad INA3221-V(3580.5mil,3095.5mil) on Multi-Layer [Top Overlay] to [Top Solder] clearance [3.924mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (3.925mil < 10mil) Between Text "TOL" (3565mil,3080mil) on Top Overlay And Pad INA3221-V(3580.5mil,3095.5mil) on Multi-Layer [Top Overlay] to [Top Solder] clearance [3.925mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (3.872mil < 10mil) Between Text "PN" (3565mil,3080mil) on Top Overlay And Pad INA3221-V(3549.5mil,3064.5mil) on Multi-Layer [Top Overlay] to [Top Solder] clearance [3.872mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (3.872mil < 10mil) Between Text "DEV" (3565mil,3080mil) on Top Overlay And Pad INA3221-V(3549.5mil,3064.5mil) on Multi-Layer [Top Overlay] to [Top Solder] clearance [3.872mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (3.925mil < 10mil) Between Text "VAL" (3565mil,3080mil) on Top Overlay And Pad INA3221-V(3549.5mil,3064.5mil) on Multi-Layer [Top Overlay] to [Top Solder] clearance [3.925mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (1.175mil < 10mil) Between Text "INA3221" (3464.5mil,3437.5mil) on Top Overlay And Pad R7-1(3390mil,3499.409mil) on Top Layer [Top Overlay] to [Top Solder] clearance [1.175mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 10mil) Between Text "PN" (3565mil,3080mil) on Top Overlay And Pad INA3221-17(3565mil,3080mil) on Top Layer [Top Overlay] to [Top Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 10mil) Between Text "DEV" (3565mil,3080mil) on Top Overlay And Pad INA3221-17(3565mil,3080mil) on Top Layer [Top Overlay] to [Top Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (9.423mil < 10mil) Between Text "VAL" (3565mil,3080mil) on Top Overlay And Pad INA3221-17(3565mil,3080mil) on Top Layer [Top Overlay] to [Top Solder] clearance [9.423mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (4.377mil < 10mil) Between Text "PN" (3565mil,3080mil) on Top Overlay And Pad INA3221-15(3490.197mil,3070.155mil) on Top Layer [Top Overlay] to [Top Solder] clearance [4.377mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (4.377mil < 10mil) Between Text "DEV" (3565mil,3080mil) on Top Overlay And Pad INA3221-15(3490.197mil,3070.155mil) on Top Layer [Top Overlay] to [Top Solder] clearance [4.377mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (4.377mil < 10mil) Between Text "VAL" (3565mil,3080mil) on Top Overlay And Pad INA3221-15(3490.197mil,3070.155mil) on Top Layer [Top Overlay] to [Top Solder] clearance [4.377mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (4.377mil < 10mil) Between Text "TOL" (3565mil,3080mil) on Top Overlay And Pad INA3221-15(3490.197mil,3070.155mil) on Top Layer [Top Overlay] to [Top Solder] clearance [4.377mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (3.511mil < 10mil) Between Text "PN" (3565mil,3080mil) on Top Overlay And Pad INA3221-14(3490.197mil,3089.845mil) on Top Layer [Top Overlay] to [Top Solder] clearance [3.511mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (3.511mil < 10mil) Between Text "DEV" (3565mil,3080mil) on Top Overlay And Pad INA3221-14(3490.197mil,3089.845mil) on Top Layer [Top Overlay] to [Top Solder] clearance [3.511mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (4.377mil < 10mil) Between Text "VAL" (3565mil,3080mil) on Top Overlay And Pad INA3221-14(3490.197mil,3089.845mil) on Top Layer [Top Overlay] to [Top Solder] clearance [4.377mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (3.511mil < 10mil) Between Text "TOL" (3565mil,3080mil) on Top Overlay And Pad INA3221-14(3490.197mil,3089.845mil) on Top Layer [Top Overlay] to [Top Solder] clearance [3.511mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (3.511mil < 10mil) Between Text "PN" (3565mil,3080mil) on Top Overlay And Pad INA3221-13(3490.197mil,3109.535mil) on Top Layer [Top Overlay] to [Top Solder] clearance [3.511mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (3.511mil < 10mil) Between Text "DEV" (3565mil,3080mil) on Top Overlay And Pad INA3221-13(3490.197mil,3109.535mil) on Top Layer [Top Overlay] to [Top Solder] clearance [3.511mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (3.511mil < 10mil) Between Text "VAL" (3565mil,3080mil) on Top Overlay And Pad INA3221-13(3490.197mil,3109.535mil) on Top Layer [Top Overlay] to [Top Solder] clearance [3.511mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (3.511mil < 10mil) Between Text "TOL" (3565mil,3080mil) on Top Overlay And Pad INA3221-13(3490.197mil,3109.535mil) on Top Layer [Top Overlay] to [Top Solder] clearance [3.511mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 10mil) Between Text "PN" (3565mil,3080mil) on Top Overlay And Pad INA3221-12(3526.614mil,3154.803mil) on Top Layer [Top Overlay] to [Top Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (3.084mil < 10mil) Between Text "DEV" (3565mil,3080mil) on Top Overlay And Pad INA3221-12(3526.614mil,3154.803mil) on Top Layer [Top Overlay] to [Top Solder] clearance [3.084mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 10mil) Between Text "VAL" (3565mil,3080mil) on Top Overlay And Pad INA3221-12(3526.614mil,3154.803mil) on Top Layer [Top Overlay] to [Top Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 10mil) Between Text "TOL" (3565mil,3080mil) on Top Overlay And Pad INA3221-12(3526.614mil,3154.803mil) on Top Layer [Top Overlay] to [Top Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 10mil) Between Text "PN" (3565mil,3080mil) on Top Overlay And Pad INA3221-11(3552.205mil,3154.803mil) on Top Layer [Top Overlay] to [Top Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (3.511mil < 10mil) Between Text "DEV" (3565mil,3080mil) on Top Overlay And Pad INA3221-11(3552.205mil,3154.803mil) on Top Layer [Top Overlay] to [Top Solder] clearance [3.511mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 10mil) Between Text "VAL" (3565mil,3080mil) on Top Overlay And Pad INA3221-11(3552.205mil,3154.803mil) on Top Layer [Top Overlay] to [Top Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 10mil) Between Text "TOL" (3565mil,3080mil) on Top Overlay And Pad INA3221-11(3552.205mil,3154.803mil) on Top Layer [Top Overlay] to [Top Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (4.282mil < 10mil) Between Text "PN" (3565mil,3080mil) on Top Overlay And Pad INA3221-10(3577.795mil,3154.803mil) on Top Layer [Top Overlay] to [Top Solder] clearance [4.282mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (4.282mil < 10mil) Between Text "DEV" (3565mil,3080mil) on Top Overlay And Pad INA3221-10(3577.795mil,3154.803mil) on Top Layer [Top Overlay] to [Top Solder] clearance [4.282mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (4.282mil < 10mil) Between Text "VAL" (3565mil,3080mil) on Top Overlay And Pad INA3221-10(3577.795mil,3154.803mil) on Top Layer [Top Overlay] to [Top Solder] clearance [4.282mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (4.282mil < 10mil) Between Text "TOL" (3565mil,3080mil) on Top Overlay And Pad INA3221-10(3577.795mil,3154.803mil) on Top Layer [Top Overlay] to [Top Solder] clearance [4.282mil]
+Rule Violations :38
+
+Processing Rule : Silk to Silk (Clearance=10mil) (All),(All)
+   Violation between Silk To Silk Clearance Constraint: (1.587mil < 10mil) Between Text "INA3221" (3464.5mil,3437.5mil) on Top Overlay And Track (3453.976mil,3360.63mil)(3453.976mil,3439.37mil) on Top Overlay Silk Text to Silk Clearance [1.587mil]
+   Violation between Silk To Silk Clearance Constraint: (Collision < 10mil) Between Text "*" (3498.819mil,2960.512mil) on Top Overlay And Track (3473.307mil,2988.307mil)(3506.624mil,2988.307mil) on Top Overlay Silk Text to Silk Clearance [0mil]
+   Violation between Silk To Silk Clearance Constraint: (7.364mil < 10mil) Between Text "PN" (3565mil,3080mil) on Top Overlay And Track (3473.307mil,3171.693mil)(3506.624mil,3171.693mil) on Top Overlay Silk Text to Silk Clearance [7.364mil]
+   Violation between Silk To Silk Clearance Constraint: (7.285mil < 10mil) Between Text "DEV" (3565mil,3080mil) on Top Overlay And Track (3473.307mil,3171.693mil)(3506.624mil,3171.693mil) on Top Overlay Silk Text to Silk Clearance [7.285mil]
+   Violation between Silk To Silk Clearance Constraint: (7.285mil < 10mil) Between Text "VAL" (3565mil,3080mil) on Top Overlay And Track (3473.307mil,3171.693mil)(3506.624mil,3171.693mil) on Top Overlay Silk Text to Silk Clearance [7.285mil]
+   Violation between Silk To Silk Clearance Constraint: (7.285mil < 10mil) Between Text "TOL" (3565mil,3080mil) on Top Overlay And Track (3473.307mil,3171.693mil)(3506.624mil,3171.693mil) on Top Overlay Silk Text to Silk Clearance [7.285mil]
+   Violation between Silk To Silk Clearance Constraint: (Collision < 10mil) Between Text "*" (3498.819mil,2960.512mil) on Top Overlay And Track (3473.307mil,2988.307mil)(3473.307mil,3030.475mil) on Top Overlay Silk Text to Silk Clearance [0mil]
+   Violation between Silk To Silk Clearance Constraint: (3.795mil < 10mil) Between Region (0 hole(s)) Top Overlay And Text "TOL" (3565mil,3080mil) on Top Overlay Silk Text to Silk Clearance [3.795mil]
+   Violation between Silk To Silk Clearance Constraint: (Collision < 10mil) Between Text "PN" (3565mil,3080mil) on Top Overlay And Text "TOL" (3565mil,3080mil) on Top Overlay Silk Text to Silk Clearance [0mil]
+   Violation between Silk To Silk Clearance Constraint: (Collision < 10mil) Between Text "DEV" (3565mil,3080mil) on Top Overlay And Text "TOL" (3565mil,3080mil) on Top Overlay Silk Text to Silk Clearance [0mil]
+   Violation between Silk To Silk Clearance Constraint: (Collision < 10mil) Between Text "VAL" (3565mil,3080mil) on Top Overlay And Text "TOL" (3565mil,3080mil) on Top Overlay Silk Text to Silk Clearance [0mil]
+   Violation between Silk To Silk Clearance Constraint: (3.795mil < 10mil) Between Region (0 hole(s)) Top Overlay And Text "VAL" (3565mil,3080mil) on Top Overlay Silk Text to Silk Clearance [3.795mil]
+   Violation between Silk To Silk Clearance Constraint: (Collision < 10mil) Between Text "PN" (3565mil,3080mil) on Top Overlay And Text "VAL" (3565mil,3080mil) on Top Overlay Silk Text to Silk Clearance [0mil]
+   Violation between Silk To Silk Clearance Constraint: (Collision < 10mil) Between Text "DEV" (3565mil,3080mil) on Top Overlay And Text "VAL" (3565mil,3080mil) on Top Overlay Silk Text to Silk Clearance [0mil]
+   Violation between Silk To Silk Clearance Constraint: (4.212mil < 10mil) Between Region (0 hole(s)) Top Overlay And Text "DEV" (3565mil,3080mil) on Top Overlay Silk Text to Silk Clearance [4.212mil]
+   Violation between Silk To Silk Clearance Constraint: (Collision < 10mil) Between Text "PN" (3565mil,3080mil) on Top Overlay And Text "DEV" (3565mil,3080mil) on Top Overlay Silk Text to Silk Clearance [0mil]
+Rule Violations :16
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Room Sheet2 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('Sheet2'))
+   Violation between Room Definition: Between Small Component SDA/SCL-Header 3 (4545mil,3400mil) on Top Layer And Room Sheet2 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('Sheet2')) 
+   Violation between Room Definition: Between SMT Small Component R9-Res1 (3620mil,2755mil) on Top Layer And Room Sheet2 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('Sheet2')) 
+   Violation between Room Definition: Between SMT Small Component R8-Res1 (3250mil,2900mil) on Top Layer And Room Sheet2 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('Sheet2')) 
+   Violation between Room Definition: Between SMT Small Component R7-Res1 (3390mil,3400mil) on Top Layer And Room Sheet2 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('Sheet2')) 
+   Violation between Room Definition: Between SMT Small Component R6-0805 Resistor (4395mil,3090mil) on Top Layer And Room Sheet2 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('Sheet2')) 
+   Violation between Room Definition: Between SMT Small Component R5-0805 Resistor (4220mil,3090mil) on Top Layer And Room Sheet2 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('Sheet2')) 
+   Violation between Room Definition: Between SMT Small Component R4-0805 Resistor (3165mil,4240mil) on Top Layer And Room Sheet2 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('Sheet2')) 
+   Violation between Room Definition: Between SMT Small Component R3-0805 Resistor (3400mil,4240mil) on Top Layer And Room Sheet2 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('Sheet2')) 
+   Violation between Room Definition: Between SMT Small Component R2-0805 Resistor (3630mil,4240mil) on Top Layer And Room Sheet2 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('Sheet2')) 
+   Violation between Room Definition: Between SMT Small Component R1-0805 Resistor (3870mil,4240mil) on Top Layer And Room Sheet2 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('Sheet2')) 
+   Violation between Room Definition: Between Component Power-Molex 0431600102 (4355mil,4159.882mil) on Top Layer And Room Sheet2 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('Sheet2')) 
+   Violation between Room Definition: Between Component LOAD3-Molex 0431600102 (3525.118mil,2350mil) on Bottom Layer And Room Sheet2 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('Sheet2')) 
+   Violation between Room Definition: Between Component LOAD2-Molex 0431600102 (2852.992mil,2779.843mil) on Top Layer And Room Sheet2 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('Sheet2')) 
+   Violation between Room Definition: Between Component LOAD1-Molex 0431600102 (2932.992mil,3510.157mil) on Bottom Layer And Room Sheet2 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('Sheet2')) 
+   Violation between Room Definition: Between Component INA3221-INA3221_RGV_16 (3565mil,3080mil) on Top Layer And Room Sheet2 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('Sheet2')) 
+   Violation between Room Definition: Between SMT Small Component C1-1µ (4558mil,3081mil) on Top Layer And Room Sheet2 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('Sheet2')) 
+   Violation between Room Definition: Between SIP Component ALERTS-Header 4 (3425mil,3920mil) on Top Layer And Room Sheet2 (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('Sheet2')) 
+Rule Violations :17
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+
+Violations Detected : 236
+Time Elapsed        : 00:00:02
