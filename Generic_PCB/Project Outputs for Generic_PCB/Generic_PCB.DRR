@@ -1,0 +1,25 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Generic_PCB.PcbDoc   26/04/2017  6:34:22 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Component Side to Solder Side
+ASCII Plated RoundHoles File : Generic_PCB-RoundHoles-Plated.TXT
+ASCII Plated SlotHoles File : Generic_PCB-SlotHoles-Plated.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      8mil (0.203mm)                                            Round             330       PTH        50.96inch (1294.48mm)
+T2      32mil (0.8mm)           +1mil (0.02mm)                    Round             36        PTH        6.57inch (166.75mm)
+T3      32mil (0.8mm)           -4mil (0.1mm)                     Round             1         PTH        0.00inch (0.00mm)
+T4      32mil (0.8mm)                                             Round             8         PTH        0.85inch (21.54mm)
+T5      32mil (0.8mm)           -4mil (0.1mm)                     Slot              1         PTH        0.01inch (0.20mm)
+T6      35mil (0.9mm)                                             Round             58        PTH        10.03inch (254.76mm)
+T7      41mil (1.04mm)          +/-2mil (0.041mm)                 Round             36        PTH        3.15inch (79.92mm)
+T8      47mil (1.19mm)          +/-3mil (0.08mm)                  Round             2         PTH        1.28inch (32.40mm)
+T9      70mil (1.78mm)          +/-3mil (0.08mm)                  Round             20        PTH        7.75inch (196.91mm)
+T10     118mil (3mm)            +/-3mil (0.08mm)                  Round             10        PTH        5.44inch (138.26mm)
+T11     122mil (3.1mm)          +/-3mil (0.08mm)                  Round             4         PTH        11.10inch (282.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              506
+
+Total Processing Time (hh:mm:ss) : 00:00:00
