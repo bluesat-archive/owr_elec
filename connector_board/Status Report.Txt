@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Free Documents]
+   Generated File[connector_board-Plated.TXT]
+   Generated File[connector_board-NonPlated.TXT]
+   Generated File[connector_board.LDP]
+   Generated File[connector_board.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 12:10:16 PM On 15/07/2017
