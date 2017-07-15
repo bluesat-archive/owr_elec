@@ -1,0 +1,19 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: connector_board.PcbDoc   8/07/2017  2:51:35 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII Plated RoundHoles File : connector_board-Plated.TXT
+ASCII Non-Plated RoundHoles File : connector_board-NonPlated.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      41mil (1.041mm)                                           Round             36        PTH        3.20inch (81.28mm)
+T2      52mil (1.321mm)                                           Round             96        PTH        12.67inch (321.88mm)
+T3      47mil (1.194mm)                                           Round             2         NPTH       1.29inch (32.64mm)
+T4      98mil (2.489mm)                                           Round             4         NPTH       4.67inch (118.65mm)
+T5      421mil (10.693mm)                                         Round             2         NPTH       3.39inch (86.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              140
+
+Total Processing Time (hh:mm:ss) : 00:00:00
